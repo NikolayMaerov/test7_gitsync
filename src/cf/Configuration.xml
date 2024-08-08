@@ -243,6 +243,7 @@
 			<Language>Русский</Language>
 			<Catalog>Справочник1</Catalog>
 			<Document>Документ1</Document>
+			<Enum>Перечисление1</Enum>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
